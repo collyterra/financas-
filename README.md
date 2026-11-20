@@ -30,7 +30,7 @@ O aplicativo conta com uma interface responsiva, tema escuro e detalhes em verde
 
 O Meu Financeiro já está publicado na internet! Isso significa que você não precisa baixar nenhum arquivo ou passar por uma loja de aplicativos para começar a usar.
 
-1. Acesse o aplicativo pelo link: **[COLOQUE AQUI O LINK DO DEPLOY]**
+1. Acesse o aplicativo pelo link: https://collyterra.github.io/financas-/
 2. Abra pelo navegador do seu celular ou computador.
 3. Para instalar no celular, utilize a opção **"Adicionar à tela inicial"** ou **"Instalar aplicativo"**, quando disponível.
 4. Pronto! O Meu Financeiro ficará disponível como um aplicativo na tela inicial do seu dispositivo.
